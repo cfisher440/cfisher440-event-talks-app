@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["John Doe"],
+    "categories": ["JavaScript", "Web Development"],
+    "description": "An in-depth look at the evolution of JavaScript frameworks and what to expect in the coming years."
+  },
+  {
+    "title": "Scaling Your Node.js Applications",
+    "speakers": ["Jane Smith", "Peter Jones"],
+    "categories": ["Node.js", "Backend"],
+    "description": "Learn best practices for building scalable and performant Node.js applications."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Deep Dive",
+    "speakers": ["Alice Johnson"],
+    "categories": ["CSS", "Frontend"],
+    "description": "Master the modern CSS layout techniques with practical examples of CSS Grid and Flexbox."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Bob Williams"],
+    "categories": ["Python", "Machine Learning"],
+    "description": "A beginner-friendly introduction to the world of machine learning using Python and popular libraries."
+  },
+  {
+    "title": "Building Real-time Applications with WebSockets",
+    "speakers": ["Charlie Brown", "Lucy van Pelt"],
+    "categories": ["WebSockets", "Real-time"],
+    "description": "Explore the power of WebSockets for building interactive and real-time features in your web applications."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["David Miller"],
+    "categories": ["Debugging", "Developer Tools"],
+    "description": "Learn effective debugging techniques and tools to save time and write better code."
+  }
+]
